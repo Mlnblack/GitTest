@@ -1,0 +1,22 @@
+newtin
+newnewg
+lastthing
+
+#include<iostream>
+using namespace std;
+
+int numberPlus(int a,int b);
+
+void int()
+{
+	int a;
+	a=numberPlus(105,55);
+	cout<<"105+55:"<<a;
+
+}
+
+int numberPlus(int a,int b)
+{
+
+	return a+b;
+}
